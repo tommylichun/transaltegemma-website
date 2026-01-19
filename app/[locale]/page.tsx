@@ -7,8 +7,17 @@ import { Testimonials } from '@/components/Testimonials';
 import { CTA } from '@/components/CTA';
 import { Footer } from '@/components/Footer';
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
+import { setRequestLocale } from 'next-intl/server';
 
-export default function HomePage() {
+export default async function HomePage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  
+  // Enable static rendering
+  setRequestLocale(locale);
   return (
     <div className="min-h-screen flex flex-col">
       {/* Header with Language Switcher */}
