@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "title": "TranslateGemma - Offline Image Translation App",
+    "description": "TranslateGemma is a revolutionary offline image translation app that uses advanced AI technology to perform text recognition and translation locally on your device. No internet connection required, complete privacy protection.",
+    "keywords": "translation,translator,image translation,OCR,text recognition,offline translation,AI translation,multilingual,English Chinese,Japanese,Korean,privacy,local translation"
+  },
+  "hero": {
+    "title": "Translate Any Image, Anywhere",
+    "titleGradient": "Offline",
+    "subtitle": "Offline Image Translation",
+    "description": "Revolutionary AI-powered translation that works completely offline. Your privacy is protected—all processing happens on your device.",
+    "ctaPrimary": "Download on App Store",
+    "ctaSecondary": "Learn More"
+  },
+  "features": {
+    "label": "FEATURES",
+    "title": "Everything You Need for",
+    "titleGradient": "Seamless Translation",
+    "items": [
+      {
+        "title": "Smart OCR",
+        "description": "Automatically recognizes text in images with support for multiple languages, high accuracy."
+      },
+      {
+        "title": "55 Languages",
+        "description": "Supports major languages worldwide, including Chinese, English, Japanese, Korean, Spanish, French, German, and more."
+      },
+      {
+        "title": "Completely Offline",
+        "description": "All translation processing is done locally on your device. No internet connection needed."
+      },
+      {
+        "title": "Privacy Protected",
+        "description": "Your images and text are never uploaded to servers. All data is processed locally."
+      },
+      {
+        "title": "Fast & Accurate",
+        "description": "Powered by Google TranslateGemma 4B AI model, delivering fast and accurate results."
+      },
+      {
+        "title": "Simple & Intuitive",
+        "description": "Clean user interface. Just select an image and get instant translation results."
+      }
+    ]
+  },
+  "benefits": {
+    "label": "BENEFITS",
+    "title": "Why Choose",
+    "titleGradient": "TranslateGemma",
+    "items": [
+      {
+        "title": "100% Private",
+        "description": "No data ever leaves your device. Complete privacy and security guaranteed."
+      },
+      {
+        "title": "Works Everywhere",
+        "description": "No internet? No problem. Translate anywhere, anytime, completely offline."
+      },
+      {
+        "title": "Fast Performance",
+        "description": "Optimized AI model ensures quick translation even on mobile devices."
+      },
+      {
+        "title": "Easy to Use",
+        "description": "Intuitive interface makes translation as simple as taking a photo."
+      }
+    ]
+  },
+  "howItWorks": {
+    "label": "HOW IT WORKS",
+    "title": "Translate in",
+    "titleGradient": "5 Simple Steps",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Take a Photo",
+        "description": "Use your system camera to capture the image with text you want to translate."
+      },
+      {
+        "number": "2",
+        "title": "Select from Album",
+        "description": "Choose the photo from your album in the app."
+      },
+      {
+        "number": "3",
+        "title": "Auto Recognition",
+        "description": "The app automatically recognizes all text in the image."
+      },
+      {
+        "number": "4",
+        "title": "Choose Language",
+        "description": "Select your target language from 55 supported languages."
+      },
+      {
+        "number": "5",
+        "title": "Get Translation",
+        "description": "Receive instant translation results displayed over the original image."
+      }
+    ]
+  },
+  "stats": {
+    "label": "BY THE NUMBERS",
+    "items": [
+      {
+        "value": "55",
+        "label": "Languages Supported"
+      },
+      {
+        "value": "100%",
+        "label": "Offline Operation"
+      },
+      {
+        "value": "0",
+        "label": "Data Uploaded"
+      },
+      {
+        "value": "4B",
+        "label": "AI Model Parameters"
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "TESTIMONIALS",
+    "title": "Loved by Users",
+    "titleGradient": "Worldwide",
+    "items": [
+      {
+        "quote": "Perfect for traveling! I can translate menus and signs without any internet connection. Privacy is a huge plus.",
+        "author": "Sarah Chen",
+        "location": "Traveler"
+      },
+      {
+        "quote": "As a language learner, this app is a game-changer. Fast, accurate, and completely private.",
+        "author": "Marcus Johnson",
+        "location": "Language Learner"
+      },
+      {
+        "quote": "The offline feature is amazing. I use it for work documents and it never disappoints.",
+        "author": "Yuki Tanaka",
+        "location": "Professional"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Experience",
+    "titleGradient": "Offline Translation?",
+    "description": "Download TranslateGemma now and start translating images instantly, anywhere, anytime.",
+    "button": "Download on App Store"
+  },
+  "footer": {
+    "links": {
+      "privacy": "Privacy Policy",
+      "support": "Support & Contact",
+      "about": "About"
+    },
+    "copyright": "© 2026 TranslateGemma. All rights reserved.",
+    "contact": "tommy@chunwacreative.com"
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  }
+}

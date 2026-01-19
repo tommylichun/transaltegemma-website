@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "title": "TranslateGemma - Application de Traduction d'Images Hors Ligne",
+    "description": "TranslateGemma est une application révolutionnaire de traduction d'images hors ligne qui utilise une technologie IA avancée pour effectuer la reconnaissance de texte et la traduction localement sur votre appareil. Aucune connexion Internet requise, protection complète de la confidentialité.",
+    "keywords": "traduction,traducteur,traduction d'images,OCR,reconnaissance de texte,traduction hors ligne,traduction IA,multilingue,anglais chinois,japonais,coréen,confidentialité,traduction locale"
+  },
+  "hero": {
+    "title": "Traduisez N'importe Quelle Image",
+    "titleGradient": "Hors Ligne",
+    "subtitle": "Traduction d'Images Hors Ligne",
+    "description": "Traduction révolutionnaire alimentée par l'IA qui fonctionne complètement hors ligne. Votre confidentialité est protégée—tout le traitement se fait sur votre appareil.",
+    "ctaPrimary": "Télécharger sur l'App Store",
+    "ctaSecondary": "En Savoir Plus"
+  },
+  "features": {
+    "label": "CARACTÉRISTIQUES",
+    "title": "Tout Ce Dont Vous Avez Besoin pour une",
+    "titleGradient": "Traduction Sans Problème",
+    "items": [
+      {
+        "title": "OCR Intelligent",
+        "description": "Reconnaît automatiquement le texte dans les images avec support multilingue, haute précision."
+      },
+      {
+        "title": "55 Langues",
+        "description": "Prend en charge les principales langues du monde, notamment le chinois, l'anglais, le japonais, le coréen, l'espagnol, le français, l'allemand et plus encore."
+      },
+      {
+        "title": "Complètement Hors Ligne",
+        "description": "Tout le traitement de traduction est effectué localement sur votre appareil. Aucune connexion Internet nécessaire."
+      },
+      {
+        "title": "Confidentialité Protégée",
+        "description": "Vos images et texte ne sont jamais téléchargés sur des serveurs. Toutes les données sont traitées localement."
+      },
+      {
+        "title": "Rapide et Précis",
+        "description": "Alimenté par le modèle IA Google TranslateGemma 4B, offrant des résultats rapides et précis."
+      },
+      {
+        "title": "Simple et Intuitif",
+        "description": "Interface utilisateur épurée. Sélectionnez simplement une image et obtenez des résultats de traduction instantanés."
+      }
+    ]
+  },
+  "benefits": {
+    "label": "AVANTAGES",
+    "title": "Pourquoi Choisir",
+    "titleGradient": "TranslateGemma",
+    "items": [
+      {
+        "title": "100% Privé",
+        "description": "Les données ne quittent jamais votre appareil. Confidentialité et sécurité complètes garanties."
+      },
+      {
+        "title": "Fonctionne Partout",
+        "description": "Pas d'internet ? Pas de problème. Traduisez n'importe où, n'importe quand, complètement hors ligne."
+      },
+      {
+        "title": "Performances Rapides",
+        "description": "Le modèle IA optimisé assure une traduction rapide même sur les appareils mobiles."
+      },
+      {
+        "title": "Facile à Utiliser",
+        "description": "Interface intuitive qui rend la traduction aussi simple que de prendre une photo."
+      }
+    ]
+  },
+  "howItWorks": {
+    "label": "COMMENT ÇA MARCHE",
+    "title": "Traduisez en",
+    "titleGradient": "5 Étapes Simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Prendre une Photo",
+        "description": "Utilisez l'appareil photo du système pour capturer l'image avec le texte que vous souhaitez traduire."
+      },
+      {
+        "number": "2",
+        "title": "Sélectionner dans l'Album",
+        "description": "Choisissez la photo de votre album dans l'application."
+      },
+      {
+        "number": "3",
+        "title": "Reconnaissance Automatique",
+        "description": "L'application reconnaît automatiquement tout le texte dans l'image."
+      },
+      {
+        "number": "4",
+        "title": "Choisir la Langue",
+        "description": "Sélectionnez votre langue cible parmi 55 langues prises en charge."
+      },
+      {
+        "number": "5",
+        "title": "Obtenir la Traduction",
+        "description": "Recevez des résultats de traduction instantanés affichés sur l'image originale."
+      }
+    ]
+  },
+  "stats": {
+    "label": "EN CHIFFRES",
+    "items": [
+      {
+        "value": "55",
+        "label": "Langues Soportées"
+      },
+      {
+        "value": "100%",
+        "label": "Fonctionnement Hors Ligne"
+      },
+      {
+        "value": "0",
+        "label": "Données Téléchargées"
+      },
+      {
+        "value": "4B",
+        "label": "Paramètres du Modèle IA"
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "TÉMOIGNAGES",
+    "title": "Aimé par les Utilisateurs",
+    "titleGradient": "Dans le Monde Entier",
+    "items": [
+      {
+        "quote": "Parfait pour voyager ! Je peux traduire les menus et les panneaux sans connexion Internet. La confidentialité est un énorme avantage.",
+        "author": "Sophie Martin",
+        "location": "Voyageuse"
+      },
+      {
+        "quote": "En tant qu'apprenant de langues, cette application change la donne. Rapide, précise et complètement privée.",
+        "author": "Pierre Dubois",
+        "location": "Apprenant de Langues"
+      },
+      {
+        "quote": "La fonction hors ligne est incroyable. Je l'utilise pour les documents de travail et elle ne me déçoit jamais.",
+        "author": "Marie Leclerc",
+        "location": "Professionnelle"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à Expérimenter la",
+    "titleGradient": "Traduction Hors Ligne ?",
+    "description": "Téléchargez TranslateGemma maintenant et commencez à traduire des images instantanément, n'importe où et n'importe quand.",
+    "button": "Télécharger sur l'App Store"
+  },
+  "footer": {
+    "links": {
+      "privacy": "Politique de Confidentialité",
+      "support": "Support et Contact",
+      "about": "À Propos"
+    },
+    "copyright": "© 2026 TranslateGemma. Tous droits réservés.",
+    "contact": "tommy@chunwacreative.com"
+  },
+  "languageSwitcher": {
+    "label": "Langue"
+  }
+}

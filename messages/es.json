@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "title": "TranslateGemma - Aplicación de Traducción de Imágenes Offline",
+    "description": "TranslateGemma es una aplicación revolucionaria de traducción de imágenes offline que utiliza tecnología AI avanzada para realizar reconocimiento de texto y traducción localmente en su dispositivo. No se requiere conexión a internet, protección completa de privacidad.",
+    "keywords": "traducción,traductor,traducción de imágenes,OCR,reconocimiento de texto,traducción offline,traducción AI,multilingüe,inglés chino,japonés,coreano,privacidad,traducción local"
+  },
+  "hero": {
+    "title": "Traduce Cualquier Imagen",
+    "titleGradient": "Sin Conexión",
+    "subtitle": "Traducción de Imágenes Offline",
+    "description": "Traducción revolucionaria impulsada por IA que funciona completamente offline. Su privacidad está protegida: todo el procesamiento ocurre en su dispositivo.",
+    "ctaPrimary": "Descargar en App Store",
+    "ctaSecondary": "Saber Más"
+  },
+  "features": {
+    "label": "CARACTERÍSTICAS",
+    "title": "Todo Lo Que Necesitas para",
+    "titleGradient": "Traducción Sin Problemas",
+    "items": [
+      {
+        "title": "OCR Inteligente",
+        "description": "Reconoce automáticamente el texto en imágenes con soporte para múltiples idiomas, alta precisión."
+      },
+      {
+        "title": "55 Idiomas",
+        "description": "Admite los principales idiomas del mundo, incluidos chino, inglés, japonés, coreano, español, francés, alemán y más."
+      },
+      {
+        "title": "Completamente Offline",
+        "description": "Todo el procesamiento de traducción se realiza localmente en su dispositivo. No se requiere conexión a internet."
+      },
+      {
+        "title": "Privacidad Protegida",
+        "description": "Sus imágenes y texto nunca se suben a servidores. Todos los datos se procesan localmente."
+      },
+      {
+        "title": "Rápido y Preciso",
+        "description": "Impulsado por el modelo AI Google TranslateGemma 4B, proporcionando resultados rápidos y precisos."
+      },
+      {
+        "title": "Simple e Intuitivo",
+        "description": "Interfaz de usuario limpia. Solo seleccione una imagen y obtenga resultados de traducción instantáneos."
+      }
+    ]
+  },
+  "benefits": {
+    "label": "BENEFICIOS",
+    "title": "Por Qué Elegir",
+    "titleGradient": "TranslateGemma",
+    "items": [
+      {
+        "title": "100% Privado",
+        "description": "Los datos nunca salen de su dispositivo. Privacidad y seguridad completas garantizadas."
+      },
+      {
+        "title": "Funciona En Todas Partes",
+        "description": "¿Sin internet? No hay problema. Traduzca en cualquier lugar, en cualquier momento, completamente offline."
+      },
+      {
+        "title": "Rendimiento Rápido",
+        "description": "El modelo AI optimizado asegura traducción rápida incluso en dispositivos móviles."
+      },
+      {
+        "title": "Fácil de Usar",
+        "description": "Interfaz intuitiva que hace que la traducción sea tan simple como tomar una foto."
+      }
+    ]
+  },
+  "howItWorks": {
+    "label": "CÓMO FUNCIONA",
+    "title": "Traduce en",
+    "titleGradient": "5 Pasos Simples",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Toma una Foto",
+        "description": "Use la cámara del sistema para capturar la imagen con el texto que desea traducir."
+      },
+      {
+        "number": "2",
+        "title": "Selecciona del Álbum",
+        "description": "Elija la foto de su álbum en la aplicación."
+      },
+      {
+        "number": "3",
+        "title": "Reconocimiento Automático",
+        "description": "La aplicación reconoce automáticamente todo el texto en la imagen."
+      },
+      {
+        "number": "4",
+        "title": "Elige el Idioma",
+        "description": "Seleccione su idioma objetivo de 55 idiomas compatibles."
+      },
+      {
+        "number": "5",
+        "title": "Obtén la Traducción",
+        "description": "Recibe resultados de traducción instantáneos mostrados sobre la imagen original."
+      }
+    ]
+  },
+  "stats": {
+    "label": "POR LOS NÚMEROS",
+    "items": [
+      {
+        "value": "55",
+        "label": "Idiomas Soportados"
+      },
+      {
+        "value": "100%",
+        "label": "Operación Offline"
+      },
+      {
+        "value": "0",
+        "label": "Datos Subidos"
+      },
+      {
+        "value": "4B",
+        "label": "Parámetros del Modelo AI"
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "TESTIMONIOS",
+    "title": "Amado por Usuarios",
+    "titleGradient": "En Todo el Mundo",
+    "items": [
+      {
+        "quote": "¡Perfecto para viajar! Puedo traducir menús y señales sin conexión a internet. La privacidad es una gran ventaja.",
+        "author": "María García",
+        "location": "Viajera"
+      },
+      {
+        "quote": "Como estudiante de idiomas, esta aplicación cambia las reglas del juego. Rápida, precisa y completamente privada.",
+        "author": "Carlos Rodríguez",
+        "location": "Estudiante de Idiomas"
+      },
+      {
+        "quote": "La función offline es increíble. La uso para documentos de trabajo y nunca me decepciona.",
+        "author": "Ana Martínez",
+        "location": "Profesional"
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para Experimentar",
+    "titleGradient": "Traducción Offline?",
+    "description": "Descargue TranslateGemma ahora y comience a traducir imágenes al instante, en cualquier lugar y en cualquier momento.",
+    "button": "Descargar en App Store"
+  },
+  "footer": {
+    "links": {
+      "privacy": "Política de Privacidad",
+      "support": "Soporte y Contacto",
+      "about": "Acerca de"
+    },
+    "copyright": "© 2026 TranslateGemma. Todos los derechos reservados.",
+    "contact": "tommy@chunwacreative.com"
+  },
+  "languageSwitcher": {
+    "label": "Idioma"
+  }
+}

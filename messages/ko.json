@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "title": "TranslateGemma - 오프라인 이미지 번역 앱",
+    "description": "TranslateGemma는 고급 AI 기술을 사용하여 기기에서 로컬로 텍스트 인식 및 번역을 수행하는 혁신적인 오프라인 이미지 번역 앱입니다. 인터넷 연결 불필요, 완전한 개인정보 보호.",
+    "keywords": "번역,번역기,이미지번역,OCR,텍스트인식,오프라인번역,AI번역,다국어,영중번역,일본어,한국어,개인정보보호,로컬번역"
+  },
+  "hero": {
+    "title": "어디서나 이미지 번역",
+    "titleGradient": "오프라인으로",
+    "subtitle": "오프라인 이미지 번역",
+    "description": "혁신적인 AI 기반 번역, 완전 오프라인으로 작동합니다. 개인정보가 보호됩니다—모든 처리가 기기에서 수행됩니다.",
+    "ctaPrimary": "App Store에서 다운로드",
+    "ctaSecondary": "자세히 보기"
+  },
+  "features": {
+    "label": "기능",
+    "title": "완벽한 번역을 위한",
+    "titleGradient": "모든 기능",
+    "items": [
+      {
+        "title": "스마트 OCR",
+        "description": "이미지의 텍스트를 자동으로 인식하며, 여러 언어 혼합 인식을 지원하여 높은 정확도를 제공합니다."
+      },
+      {
+        "title": "55개 언어",
+        "description": "중국어, 영어, 일본어, 한국어, 스페인어, 프랑스어, 독일어 등 전 세계 주요 언어를 지원합니다."
+      },
+      {
+        "title": "완전 오프라인",
+        "description": "모든 번역 처리는 기기에서 로컬로 완료됩니다. 인터넷 연결 불필요."
+      },
+      {
+        "title": "개인정보 보호",
+        "description": "이미지와 텍스트가 서버에 업로드되지 않습니다. 모든 데이터는 기기에서 로컬로 처리됩니다."
+      },
+      {
+        "title": "빠르고 정확",
+        "description": "Google TranslateGemma 4B AI 모델로 구동되며, 빠르고 정확한 번역 결과를 제공합니다."
+      },
+      {
+        "title": "간단하고 직관적",
+        "description": "깔끔한 사용자 인터페이스. 이미지를 선택하기만 하면 즉시 번역 결과를 얻을 수 있습니다."
+      }
+    ]
+  },
+  "benefits": {
+    "label": "장점",
+    "title": "왜",
+    "titleGradient": "TranslateGemma를 선택해야 할까요",
+    "items": [
+      {
+        "title": "100% 프라이빗",
+        "description": "데이터가 기기를 떠나지 않습니다. 완전한 개인정보 보호와 보안이 보장됩니다."
+      },
+      {
+        "title": "어디서나 작동",
+        "description": "인터넷이 없어도? 문제없습니다. 어디서나, 언제든지, 완전 오프라인으로 번역하세요."
+      },
+      {
+        "title": "빠른 성능",
+        "description": "최적화된 AI 모델로 모바일 기기에서도 빠른 번역을 보장합니다."
+      },
+      {
+        "title": "사용하기 쉬움",
+        "description": "직관적인 인터페이스로 번역이 사진을 찍는 것만큼 간단합니다."
+      }
+    ]
+  },
+  "howItWorks": {
+    "label": "사용 방법",
+    "title": "단",
+    "titleGradient": "5개의 간단한 단계",
+    "steps": [
+      {
+        "number": "1",
+        "title": "사진 촬영",
+        "description": "시스템 카메라를 사용하여 번역하려는 텍스트 사진 촬영."
+      },
+      {
+        "number": "2",
+        "title": "앨범에서 선택",
+        "description": "앱에서 \"앨범에서 선택\"을 선택하여 사진 선택."
+      },
+      {
+        "number": "3",
+        "title": "자동 인식",
+        "description": "앱이 이미지의 모든 텍스트를 자동으로 인식."
+      },
+      {
+        "number": "4",
+        "title": "언어 선택",
+        "description": "55개의 지원 언어에서 대상 언어 선택."
+      },
+      {
+        "number": "5",
+        "title": "번역 결과 얻기",
+        "description": "원본 이미지 위에 표시되는 즉시 번역 결과를 받으세요."
+      }
+    ]
+  },
+  "stats": {
+    "label": "수치로 보기",
+    "items": [
+      {
+        "value": "55",
+        "label": "지원 언어"
+      },
+      {
+        "value": "100%",
+        "label": "오프라인 작동"
+      },
+      {
+        "value": "0",
+        "label": "데이터 업로드"
+      },
+      {
+        "value": "4B",
+        "label": "AI 모델 파라미터"
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "사용자 후기",
+    "title": "전 세계 사용자들에게",
+    "titleGradient": "사랑받고 있습니다",
+    "items": [
+      {
+        "quote": "여행에 완벽합니다! 인터넷 연결 없이 메뉴와 표지판을 번역할 수 있습니다. 개인정보 보호는 큰 장점입니다.",
+        "author": "김민수",
+        "location": "여행자"
+      },
+      {
+        "quote": "언어 학습자로서 이 앱은 게임 체인저입니다. 빠르고 정확하며 완전히 프라이빗합니다.",
+        "author": "이지은",
+        "location": "언어 학습자"
+      },
+      {
+        "quote": "오프라인 기능이 훌륭합니다. 업무 문서에 사용하고 있으며 절대 실망시키지 않습니다.",
+        "author": "박준호",
+        "location": "전문가"
+      }
+    ]
+  },
+  "cta": {
+    "title": "오프라인 번역을",
+    "titleGradient": "경험할 준비가 되셨나요?",
+    "description": "지금 TranslateGemma를 다운로드하고 어디서나, 언제든지 이미지를 즉시 번역하세요.",
+    "button": "App Store에서 다운로드"
+  },
+  "footer": {
+    "links": {
+      "privacy": "개인정보 처리방침",
+      "support": "지원 및 문의",
+      "about": "정보"
+    },
+    "copyright": "© 2026 TranslateGemma. 모든 권리 보유.",
+    "contact": "tommy@chunwacreative.com"
+  },
+  "languageSwitcher": {
+    "label": "언어"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "title": "TranslateGemma - 離線圖片翻譯應用",
+    "description": "TranslateGemma 是一款革命性的離線圖片翻譯應用，使用先進的 AI 技術在您的設備上本地完成文字識別和翻譯，無需網絡連接，完全保護您的隱私安全。",
+    "keywords": "翻譯,翻譯器,圖片翻譯,OCR,文字識別,離線翻譯,AI翻譯,多語言翻譯,中英文翻譯,日文翻譯,韓文翻譯,隱私保護,本地翻譯"
+  },
+  "hero": {
+    "title": "隨時隨地翻譯圖片",
+    "titleGradient": "離線運行",
+    "subtitle": "離線圖片翻譯神器",
+    "description": "革命性的 AI 驅動翻譯，完全離線運行。您的隱私受到保護——所有處理都在您的設備上完成。",
+    "ctaPrimary": "在 App Store 下載",
+    "ctaSecondary": "了解更多"
+  },
+  "features": {
+    "label": "功能特色",
+    "title": "無縫翻譯所需的一切",
+    "titleGradient": "功能",
+    "items": [
+      {
+        "title": "智慧 OCR",
+        "description": "自動識別圖片中的文字，支持多種語言混合識別，準確率高。"
+      },
+      {
+        "title": "55 種語言",
+        "description": "支持全球主要語言，包括中文、英語、日語、韓語、西班牙語、法語、德語等。"
+      },
+      {
+        "title": "完全離線",
+        "description": "所有翻譯處理都在您的設備上本地完成，無需網絡連接。"
+      },
+      {
+        "title": "隱私保護",
+        "description": "您的圖片和文字永遠不會上傳到服務器，所有數據都在設備本地處理。"
+      },
+      {
+        "title": "快速準確",
+        "description": "使用 Google TranslateGemma 4B AI 模型，提供快速且準確的翻譯結果。"
+      },
+      {
+        "title": "簡潔易用",
+        "description": "直觀的用戶界面，只需選擇圖片，即可快速獲得翻譯結果。"
+      }
+    ]
+  },
+  "benefits": {
+    "label": "優勢",
+    "title": "為什麼選擇",
+    "titleGradient": "TranslateGemma",
+    "items": [
+      {
+        "title": "100% 私密",
+        "description": "數據永遠不會離開您的設備。完全保護隱私和安全。"
+      },
+      {
+        "title": "隨處可用",
+        "description": "沒有網絡？沒問題。隨時隨地翻譯，完全離線。"
+      },
+      {
+        "title": "快速性能",
+        "description": "優化的 AI 模型確保即使在移動設備上也能快速翻譯。"
+      },
+      {
+        "title": "易於使用",
+        "description": "直觀的界面讓翻譯變得像拍照一樣簡單。"
+      }
+    ]
+  },
+  "howItWorks": {
+    "label": "使用方式",
+    "title": "只需",
+    "titleGradient": "5 個簡單步驟",
+    "steps": [
+      {
+        "number": "1",
+        "title": "拍攝照片",
+        "description": "使用系統相機拍攝需要翻譯的文字圖片。"
+      },
+      {
+        "number": "2",
+        "title": "從相簿選擇",
+        "description": "在應用中選擇「從相簿選擇」來選擇照片。"
+      },
+      {
+        "number": "3",
+        "title": "自動識別",
+        "description": "應用自動識別圖片中的所有文字。"
+      },
+      {
+        "number": "4",
+        "title": "選擇語言",
+        "description": "從 55 種支持語言中選擇目標語言。"
+      },
+      {
+        "number": "5",
+        "title": "獲得翻譯",
+        "description": "即時獲得翻譯結果，顯示在原始圖片上。"
+      }
+    ]
+  },
+  "stats": {
+    "label": "數據統計",
+    "items": [
+      {
+        "value": "55",
+        "label": "支持語言"
+      },
+      {
+        "value": "100%",
+        "label": "離線運行"
+      },
+      {
+        "value": "0",
+        "label": "數據上傳"
+      },
+      {
+        "value": "4B",
+        "label": "AI 模型參數"
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "用戶評價",
+    "title": "全球用戶",
+    "titleGradient": "喜愛",
+    "items": [
+      {
+        "quote": "旅行必備！沒有網絡也能翻譯菜單和路標。隱私保護是巨大的優勢。",
+        "author": "陳小華",
+        "location": "旅行者"
+      },
+      {
+        "quote": "作為語言學習者，這個應用改變了我的學習方式。快速、準確、完全私密。",
+        "author": "張明",
+        "location": "語言學習者"
+      },
+      {
+        "quote": "離線功能太棒了。我用它翻譯工作文件，從未讓我失望。",
+        "author": "田中優希",
+        "location": "專業人士"
+      }
+    ]
+  },
+  "cta": {
+    "title": "準備體驗",
+    "titleGradient": "離線翻譯？",
+    "description": "立即下載 TranslateGemma，隨時隨地即時翻譯圖片。",
+    "button": "在 App Store 下載"
+  },
+  "footer": {
+    "links": {
+      "privacy": "隱私政策",
+      "support": "支援與聯繫",
+      "about": "關於"
+    },
+    "copyright": "© 2026 TranslateGemma. 版權所有。",
+    "contact": "tommy@chunwacreative.com"
+  },
+  "languageSwitcher": {
+    "label": "語言"
+  }
+}
