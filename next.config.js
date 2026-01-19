@@ -13,8 +13,8 @@ const nextConfig = {
   poweredByHeader: false,
   reactStrictMode: true,
   swcMinify: true,
-  // For Cloudflare Pages deployment
-  output: 'standalone',
+  // Cloudflare Pages doesn't need standalone output
+  // output: 'standalone', // Removed for Cloudflare Pages compatibility
 }
 
 module.exports = withNextIntl(nextConfig);

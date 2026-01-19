@@ -4,8 +4,8 @@ import { locales, type Locale } from './i18n';
 // Base URL - will be updated with actual domain
 const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://chunwacreative.com';
 
-export function generateMetadata(locale: Locale): Metadata {
-  const messages = require(`../messages/${locale}.json`);
+export async function generateMetadata(locale: Locale): Promise<Metadata> {
+  const messages = (await import(`../messages/${locale}.json`)).default;
   const meta = messages.meta;
 
   const url = locale === 'en' ? baseUrl : `${baseUrl}/${locale}`;
@@ -71,8 +71,8 @@ export function generateMetadata(locale: Locale): Metadata {
   };
 }
 
-export function generateStructuredData(locale: Locale) {
-  const messages = require(`../messages/${locale}.json`);
+export async function generateStructuredData(locale: Locale) {
+  const messages = (await import(`../messages/${locale}.json`)).default;
   const meta = messages.meta;
   
   // App Store URL - update when app is published

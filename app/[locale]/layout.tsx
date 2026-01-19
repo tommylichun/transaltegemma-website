@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { locales, type Locale } from '@/lib/i18n';
 import { generateMetadata as genMeta, generateStructuredData } from '@/lib/metadata';
 import Script from 'next/script';
+import { Metadata } from 'next';
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -13,9 +14,9 @@ export async function generateMetadata({
   params,
 }: {
   params: Promise<{ locale: string }>;
-}) {
+}): Promise<Metadata> {
   const { locale } = await params;
-  return genMeta(locale as Locale);
+  return await genMeta(locale as Locale);
 }
 
 export default async function LocaleLayout({
@@ -31,8 +32,8 @@ export default async function LocaleLayout({
     notFound();
   }
 
-  const messages = await getMessages();
-  const structuredData = generateStructuredData(locale as Locale);
+  const messages = await getMessages({ locale });
+  const structuredData = await generateStructuredData(locale as Locale);
 
   return (
     <html lang={locale} suppressHydrationWarning>
